@@ -1,17 +1,3 @@
-'''if 5 > 2:
-	print("The if loop ran")
-	x = {}
-	y = []
-	z = -5j
-	print(type(x))
-	print(type(y))
-	print(z)
-
-x = ["sleep", "fishes"]
-
-bool = "fishes" in x
-print(bool)
-'''
 tree = [1,5,7,4,6,9,13,3]
 
 #sort the tree
